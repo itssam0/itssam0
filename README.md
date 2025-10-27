@@ -103,7 +103,7 @@ How to reach me **sacostaa1@eafit.edu.co** / **samuelacostaaristizabal1@gmail.co
  
 <div align="center">
   <a href="https://www.codewars.com/users/itssam0">
-    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=itssam0&theme=dark" alt="Github Readme Codewars" />
+    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=sacostaa1&theme=dark" alt="Github Readme Codewars" />
   </a>
 </div>
 
